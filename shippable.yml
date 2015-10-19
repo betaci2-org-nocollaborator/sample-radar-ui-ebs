@@ -10,3 +10,7 @@ before_install:
 
 install:
 	- npm install
+	
+notifications:
+	email:
+		varsha@shippable.com
