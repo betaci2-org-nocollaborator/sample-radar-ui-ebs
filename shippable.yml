@@ -12,5 +12,5 @@ install:
 	- npm install
 	
 notifications:
-	email:
-		varsha@shippable.com
+ email:
+  varsha@shippable.com
